@@ -15,4 +15,6 @@ Sample code for articles published on sulhome.com
 + I suggested reading these articles:
 
   + Versioning Strategies
+  + https://docs.microsoft.com/en-us/previous-versions/dotnet/articles/ff384251(v=msdn.10)?redirectedfrom=MSDN
   + Best Practices: Data Contract Versioning
+  + https://docs.microsoft.com/en-us/dotnet/framework/wcf/best-practices-data-contract-versioning?redirectedfrom=MSDN
