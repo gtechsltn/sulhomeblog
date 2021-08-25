@@ -5,6 +5,9 @@ Sample code for articles published on sulhome.com
 
 # WCF
 + https://www.thecodebuzz.com/consuming-wcf-web-services-in-net-core-best-practices/
++ https://www.codeproject.com/Articles/341523/WCF-Backwards-Compatibility-and-Versioning-Strateg
++ https://www.codeproject.com/Articles/345926/WCF-Backward-Compatibility-and-Versioning-Strategi
++ https://www.thecodebuzz.com/consuming-wcf-web-services-in-net-core-best-practices/
 
 # ServiceRouting Branch
 + https://github.com/sulhome/sulhomeblog/tree/ServiceRouting
