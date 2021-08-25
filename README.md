@@ -1,7 +1,10 @@
-sulhomeblog
-===========
+# WCF: sulhomeblog
+===================
 
 Sample code for articles published on sulhome.com
+
+# WCF
++ https://www.thecodebuzz.com/consuming-wcf-web-services-in-net-core-best-practices/
 
 # ServiceRouting Branch
 + https://github.com/sulhome/sulhomeblog/tree/ServiceRouting
